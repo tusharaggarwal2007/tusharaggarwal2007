@@ -24,15 +24,6 @@ I am a passionate BCA Student specializing in **Cyber Security** and **Secure So
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tusharaggarwal2007&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharaggarwal2007&layout=compact&theme=radical" alt="Top Languages" width="300"/>
-</p>
-
----
-
 ## 📫 Connect With Me
 
 *   **🌐 Portfolio:** [portfoliotushar.rf.gd](http://portfoliotushar.rf.gd/)
