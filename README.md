@@ -1,32 +1,41 @@
-# Hi there, I'm Tushar Aggarwal! 🛡️💻
+<div align="center">
 
-I am a passionate BCA Student specializing in **Cyber Security** and **Secure Software Development**. I focus on understanding application security, auditing backend systems, and finding vulnerabilities before the bad guys do. I love digging into how systems work, optimizing legacy logic, and building efficient scripts.
+# Hi, I'm Tushar Aggarwal 🧑🏻‍🎓
+### Scholasticism & Cyber Security
 
----
+A passionate BCA Student specialized in **Cyber Security** and **Secure Software Development**. I am Dedicated to identifying security blind spots, auditing backend architectures, and proactively mitigating threats before they can be exploited.
 
-## 🛠️ Security Toolkit & Tech Stack
-
-### **Languages & Frameworks**
-*   **Low-Level & Logic:** C, C++, Python
-*   **Web & Backend Security:** PHP, JavaScript, HTML5, CSS3
-
-### **Core Focus Areas**
-*   **Application Security (AppSec):** Reviewing web architecture, secure authentication handling, and defensive backend scripting.
-*   **System Constraints:** Writing robust code optimized for both modern developer environments and restrictive legacy systems.
-*   **Automation:** Using scripting languages to build custom tools that streamline data processing and security workflows.
+</div>
 
 ---
 
-## 🚀 Projects & Focus Areas
+### 🔥 About Me
 
-*   **Secure Web Architectures:** Building and testing database-driven applications (like Result Management Systems) with a heavy focus on input validation, session security, and protecting against injection flaws.
-*   **Data Precision Tools:** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
+- 💻 I love digging into how systems work, optimizing legacy logic, and building efficient scripts.
+- 🛠️ Writing robust code optimized for both modern developer environments and restrictive legacy systems.
+- 🤖 Using scripting languages to build custom tools that streamline data processing and security workflows.
 
 ---
 
-## 📫 Connect With Me
+### 🛠️ Tech Stack & Tools
 
-*   **🌐 Portfolio:** [portfoliotushar.rf.gd](http://portfoliotushar.rf.gd/)
-*   **💼 LinkedIn:** [linkedin.com/in/tusharaggarwal2007](https://linkedin.com/in/tusharaggarwal2007)
+- **Low-Level & Logic:** C, Python
+- **Web & Backend Security:** PHP, JavaScript, HTML5, CSS3
 
-*"Securing systems by understanding how to break them safely."*
+---
+
+### 🚀 Projects
+
+- <a href="https://github.com/tusharaggarwal2007/caesar-cipher-breaker/" target="_blank">**Caesar Cipher Cryptography Implementation:**</a> Developed a core cryptographic script to demonstrate fundamental encryption and decryption principles, analyzing historical cipher mechanics and data security basics.
+- **Data Precision Tools:** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
+
+---
+
+### 📫 Connect with me:
+
+<a href="https://portfoliotushar.rf.gd/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-🌐_portfoliotushar.rf.gd-007acc?style=for-the-badge&logoColor=white" alt="Tushar Portfolio" height="40">
+</a>
+<a href="https://linkedin.com/in/tusharaggarwal2007" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-💙_tusharaggarwal2007-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar LinkedIn" height="40">
+</a>
