@@ -27,7 +27,7 @@ A passionate BCA Student specialized in **Cyber Security** and **Secure Software
 ### 🚀 Projects
 
 - <a href="https://github.com/tusharaggarwal2007/caesar-cipher-breaker/" target="_blank">**Caesar Cipher Cryptography Implementation:**</a> Developed a core cryptographic script to demonstrate fundamental encryption and decryption principles, analyzing historical cipher mechanics and data security basics.
-- **Data Precision Tools:** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
+- **Data Precision Tools:(Coming Soon)** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
 
 ---
 
