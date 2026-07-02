@@ -1,48 +1,41 @@
-# Hi there, I'm a Cyber Security Enthusiast & BCA Student! 🛡️💻
+# Hi there, I'm Tushar Aggarwal! 🛡️💻
 
-I am a tech-driven student deeply focused on understanding the intersection of application security, system vulnerabilities, and secure coding practices. While pursuing my bachelor's degree, I work on auditing backend logic, discovering security loopholes, and exploring network-level operations.
+I am a passionate BCA Student specializing in **Cyber Security** and **Secure Software Development**. I focus on understanding application security, auditing backend systems, and finding vulnerabilities before the bad guys do. I love digging into how systems work, optimizing legacy logic, and building efficient scripts.
 
 ---
 
 ## 🛠️ Security Toolkit & Tech Stack
 
-### **Core & Low-Level Programming**
-*   **Vulnerability Logic & Analysis:** C, C++, Python
-*   **Web App & Backend Security:** PHP, JavaScript, HTML5, CSS3
+### **Languages & Frameworks**
+*   **Low-Level & Logic:** C, C++, Python
+*   **Web & Backend Security:** PHP, JavaScript, HTML5, CSS3
 
-### **Environments & Core Focus**
-*   **Secure Environments:** Optimizing code compatibility across modern systems and legacy infrastructure (ensuring defensive logic holds up under strict constraints).
-*   **Automation & Analysis:** Leveraging script-based workflows and API patterns to build efficient security testing tools and asset-checking scripts.
+### **Core Focus Areas**
+*   **Application Security (AppSec):** Reviewing web architecture, secure authentication handling, and defensive backend scripting.
+*   **System Constraints:** Writing robust code optimized for both modern developer environments and restrictive legacy systems.
+*   **Automation:** Using scripting languages to build custom tools that streamline data processing and security workflows.
 
 ---
 
 ## 🚀 Projects & Focus Areas
 
-*   **Secure Result Management Architectures:** Evaluating authentication handling, session hijacking risks, and database security practices within PHP/JS environments.
-*   **Defensive Code Optimization:** Adapting legacy algorithms into memory-safe logic blocks to minimize exploitation potential in traditional data structure patterns.
+*   **Secure Web Architectures:** Building and testing database-driven applications (like Result Management Systems) with a heavy focus on input validation, session security, and protecting against injection flaws.
+*   **Data Precision Tools:** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
 
 ---
 
-## 🔍 What I Focus On
-
-*   **Application Security (AppSec):** Reviewing source code to identify structural bugs, input validation flaws, and authorization bypass issues.
-*   **Defensive Scripting:** Creating custom security tools to automate manual checking processes.
-*   **System Hardening:** Diving into old-school computing constraints and hardware logic to protect setups at the fundamental layer.
-
----
-
-## 📈 Activity & Stats
+## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharaggarwal2007&show_icons=true&theme=radical" alt="Tushar's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharaggarwal2007&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-*   **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-*   **Portfolio:** [personaldiary.rf.gd](http://personaldiary.rf.gd)
+*   **🌐 Portfolio:** [portfoliotushar.rf.gd](http://portfoliotushar.rf.gd/)
+*   **💼 LinkedIn:** [linkedin.com/in/tusharaggarwal2007](https://linkedin.com/in/tusharaggarwal2007)
 
-*"Securing systems by understanding the flaws within them."*
+*"Securing systems by understanding how to break them safely."*
