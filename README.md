@@ -3,7 +3,7 @@
 # Hi, I'm Tushar Aggarwal 🧑🏻‍🎓
 ### Scholasticism & Cyber Security
 
-A passionate BCA Student specialized in **Cyber Security** and **Secure Software Development**. I am Dedicated to identifying security blind spots, auditing backend architectures, and proactively mitigating threats before they can be exploited.
+A passionate Student specialized in **Cyber Security** and **Secure Software Development**. I am Dedicated to identifying security blind spots, auditing backend architectures, and proactively mitigating threats before they can be exploited.
 
 </div>
 
