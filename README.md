@@ -27,7 +27,7 @@ A passionate Student specialized in **Cyber Security** and **Secure Software Dev
 ### 🚀 Projects
 
 - <a href="https://github.com/tusharaggarwal2007/caesar-cipher-breaker/" target="_blank">**Caesar Cipher Cryptography Implementation:**</a> Developed a core cryptographic script to demonstrate fundamental encryption and decryption principles, analyzing historical cipher mechanics and data security basics.
-- **Data Precision Tools:(Coming Soon)** Creating high-precision scripting pipelines for flawless, structured data conversion workflows.
+- <a href="https://github.com/tusharaggarwal2007/HTML-Encoder-Decoder-Utility" target="_blank">**HTML Encoder & Decoder Utility:**</a> A secure, ultra-lightweight web tool built completely client-side to instantly convert raw text and code snippets into safe HTML entities (and vice versa). Engineered for zero data leakage, it sanitizes inputs and blocks XSS vulnerabilities with 100% browser-isolated privacy.
 
 ---
 
@@ -38,4 +38,7 @@ A passionate Student specialized in **Cyber Security** and **Secure Software Dev
 </a>
 <a href="https://linkedin.com/in/tusharaggarwal2007" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-💙_tusharaggarwal2007-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar LinkedIn" height="40">
+</a>
+<a href="https://www.instagram.com/tusharaggarwal2007" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Tushar Instagram" height="40">
 </a>
