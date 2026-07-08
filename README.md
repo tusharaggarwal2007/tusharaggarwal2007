@@ -46,3 +46,6 @@ A passionate Student specialized in **Cyber Security** and **Secure Software Dev
 <a href="https://www.instagram.com/tusharaggarwal2007" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Tushar Instagram" height="40">
 </a>
+<a href="https://x.com/tusharagga2007" target="_blank">
+  <img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Tushar Twitter" height="40">
+</a>
