@@ -1,5 +1,9 @@
 <div align="center">
 
+![Profile Banner](./cybersec.gif)
+
+🎵 [Click here to listen to the profile background track](https://raw.githubusercontent.com/tusharaggarwal2007/tusharaggarwal2007/main/cyber.mp4)
+
 # Hi, I'm Tushar Aggarwal 🧑🏻‍🎓
 ### Scholasticism & Cyber Security
 
