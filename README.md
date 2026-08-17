@@ -30,8 +30,8 @@ Currently building a SaaS product in stealth mode.
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharaggarwal2007&theme=tokyonight" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharaggarwal2007&theme=tokyonight" alt="Profile Details" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tusharaggarwal2007&theme=tokyonight" alt="GitHub Stats" width="48%"/><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharaggarwal2007&theme=tokyonight" alt="Profile Details" width="100%"/>
 </p>
 
 ## 🔭 Currently Working On
