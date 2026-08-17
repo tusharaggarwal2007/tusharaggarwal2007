@@ -1,52 +1,52 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=160&section=header&text=Hi%20I'm%20Tushar%20Aggarwal&fontSize=40&fontColor=fff&animation=fadeIn"/>
+</p>
 
-![Profile Banner](./cybersec.gif)
+## 👨‍💻 About Me
+<!-- EDIT THIS -->
+I build developer tools and security utilities in Python. 
+Currently building a SaaS product in stealth mode.
 
-🎵 [Click here to listen to the profile background track](https://raw.githubusercontent.com/tusharaggarwal2007/tusharaggarwal2007/main/cyber.mp4)
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,vite,tailwind,postgresql,git,linux" />
+</p>
 
-# Hi, I'm Tushar Aggarwal 🧑🏻‍🎓
-### Ethical Hacking & Cyber Security
+## 🚀 Featured Projects
+<!-- EDIT THE REPO URLS -->
 
-A passionate Student specialized in **Cyber Security** and **Secure Software Development**. I am Dedicated to identifying security blind spots, auditing backend architectures, and proactively mitigating threats before they can be exploited.
+### 1. [Caesar Cipher](https://github.com/tusharaggarwal2007/caesar-cipher-breaker/)
+> Python CLI tool for encrypting and decrypting text using Caesar Cipher. Educational + practical.
 
-</div>
+### 2. [HTML Encoder](https://github.com/tusharaggarwal2007/HTML-Encoder-Decoder-Utility) 
+> Simple web tool built with HTML, JS, Tailwind to encode/decode HTML entities. Prevents XSS.
 
----
+### 3. [Port Scanner](https://github.com/tusharaggarwal2007/Port-Scanner)
+> Multi-threaded network port scanner written in Python. Fast and lightweight.
 
-### 🔥 About Me
+### 4. [Secure Vault](https://github.com/theoria-lab/SecureVault)
+> Local password manager with AES encryption. CLI based, secure and offline.
 
-- 💻 I love digging into how systems work, optimizing legacy logic, and building efficient scripts.
-- 🛠️ Writing robust code optimized for both modern developer environments and restrictive legacy systems.
-- 🤖 Using scripting languages to build custom tools that streamline data processing and security workflows.
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tusharaggarwal2007&theme=tokyonight&hide_border=true&show_icons=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharaggarwal2007&theme=tokyonight&hide_border=true&layout=compact" width="48%"/>
+</p>
 
----
+## 🔭 Currently Working On
+- Building A SaaS Application [Stealth Mode]
+- Learning: Flask, SQLAlchemy, API Security
 
-### 🛠️ Tech Stack & Tools
-
-- **Low-Level & Logic:** C, Python
-- **Web & Backend Security:** PHP, JavaScript, HTML5, CSS3
-
----
-
-### 🚀 Projects
-
-- <a href="https://github.com/tusharaggarwal2007/caesar-cipher-breaker/" target="_blank">**Caesar Cipher Cryptography Implementation:**</a> Developed a core cryptographic script to demonstrate fundamental encryption and decryption principles, analyzing historical cipher mechanics and data security basics.
-- <a href="https://github.com/tusharaggarwal2007/HTML-Encoder-Decoder-Utility" target="_blank">**HTML Encoder & Decoder Utility:**</a> A secure, ultra-lightweight web tool built completely client-side to instantly convert raw text and code snippets into safe HTML entities (and vice versa). Engineered for zero data leakage, it sanitizes inputs and blocks XSS vulnerabilities with 100% browser-isolated privacy.
-- <a href="https://github.com/tusharaggarwal2007/Port-Scanner" target="_blank">**Port Scanner:**</a> A lightweight, high-performance cross-platform network port scanner built with Python , Flet , and ThreadPoolExecutor. Features a sleek, hacker-inspired terminal UI with real-time status updates and multi-threaded concurrency.
-- <a href="https://github.com/theoria-lab/SecureVault" target="_blank">**Secure Vault:**</a> A DRM & software-licensing platform — sell digital products protected by hardware-bound license keys, with a full marketplace, seller tooling, payments, and an administrative control plane.
----
-
-### 📫 Connect with me:
-
-<a href="https://portfoliotushar.rf.gd/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-🌐_portfoliotushar.rf.gd-007acc?style=for-the-badge&logoColor=white" alt="Tushar Portfolio" height="40">
-</a>
-<a href="https://linkedin.com/in/tusharaggarwal2007" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-💙_tusharaggarwal2007-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Tushar LinkedIn" height="40">
-</a>
-<a href="https://www.instagram.com/tusharaggarwal2007" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Tushar Instagram" height="40">
-</a>
-<a href="https://x.com/tusharagga2007" target="_blank">
-  <img src="https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Tushar Twitter" height="40">
-</a>
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://portfoliotushar.rf.gd/"><img src="https://img.shields.io/badge/Portfolio-00FF66?style=for-the-badge&logo=google-chrome&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/tusharaggarwal2007/"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://x.com/tusharagga2007"><img src="https://img.shields.io/badge/Twitter-22D3EE?style=for-the-badge&logo=x&logoColor=white"/></a>
+  <a href="https://instagram.com/tusharaggarwal2007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="mailto:tusharaggarwal194@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=100&section=footer"/>
+</p>
