@@ -17,7 +17,7 @@ Currently building a SaaS product in stealth mode.
 <!-- EDIT THE REPO URLS -->
 
 ### 1. [Caesar Cipher](https://github.com/tusharaggarwal2007/caesar-cipher-breaker/)
-> Python CLI tool for encrypting and decrypting text using Caesar Cipher. Educational + practical.
+> Built using C programming for encrypting and decrypting text using Caesar Cipher. Educational + practical.
 
 ### 2. [HTML Encoder](https://github.com/tusharaggarwal2007/HTML-Encoder-Decoder-Utility) 
 > Simple web tool built with HTML, JS, Tailwind to encode/decode HTML entities. Prevents XSS.
